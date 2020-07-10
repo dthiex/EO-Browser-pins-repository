@@ -20,7 +20,7 @@ Bear Glacier, the largest glacier in Kenai Fjords National Park, Alaska, is sepa
 
 ### Erebus Ice Tongue, Antarctica (Enhanced true color)
 
-Description
+An ice tongue is a natural phenomenon, which occurs when a valley glacier moves very rapidly out into he sea or a lake. [The Erebus ice tongue glacier](https://earthobservatory.nasa.gov/images/4965/erebus-ice-tongue) in Antarctica comes down from Mt. Erebus and protrudes off the coast of Ross Island, forming an 11-12 km long ice tongue—a long and narrow sheet of ice projecting out from the coastline. When the sea ice in McMurdo Sound thaws in the summer, the ice tongue floats on the water without thawing. It also calves off in places forming icebergs. The Erebus Ice Tongue is only about 10 meters high, so its icebergs are small. When the ice around the tongue melts in the summer, waves of sea water constantly batter the edges of the tongue, carving very elaborate structures in the ice, sometimes producing deep caves at the margins. In the winter, the sea freezes once more around these new shapes.
 
 ### Sermeq Kujalleq Glacier, Greenland (Highlight Optimized Natural Color)
 
